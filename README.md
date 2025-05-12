@@ -40,10 +40,11 @@ Patients Data: The primary dataset used for this analysis was downloaded from a 
 
 ### Explanatory analysis
 ---
-- What was the total sales and profits trend?
--  What were the top selling categories and invoices?
--  What were most preferred payments over the year?
--  What were the top branches and why?
+- What was the current year wait times as compared to previous year?
+- What were the average/median wait times for various categories?
+- What was the waiting time when categorised by patients agesets?
+- What were the top 5 patients specialty wait times?
+- What were the monthly trending analysis for inpatient, oupatient and day case categories?
 
 ### Data Analysis
 ---
