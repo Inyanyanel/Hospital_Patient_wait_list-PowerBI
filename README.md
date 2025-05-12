@@ -49,7 +49,12 @@ Patients Data: The primary dataset used for this analysis was downloaded from a 
 ### Data Analysis
 ---
 We predominantly used Power BI functions and DAX formulas as demonstrated below;
-#### Formulas
+#### Current and previous month wait list (DAX)
+```DAX
+Latest month wait list = CALCULATE(SUM('All Data'[Total]),'All Data'[Archive_Date] = MAX('All Data'[Archive_Date])) + 0
+PY month wait list = CALCULATE(SUM('All Data'[Total]),'All Data'[Archive_Date] = EDATE(MAX('All Data'[Archive_Date]),-12)) + 0
+```
+
   - Sum-used to get total sales, cost of goods sold and profits.
   - Count-used to get total number of transactions.
 ##### Functions
