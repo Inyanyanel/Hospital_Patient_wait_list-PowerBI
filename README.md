@@ -28,14 +28,15 @@ Patients Data: The primary dataset used for this analysis was downloaded from a 
 ### Tools used
 ---
 
-- Excel - Used to clean, transform, analyse and visualisation.
+- Microsoft Power BI - Used to clean, transform, analyse and visualisation.
 
 ### Data preparation
 ---
 
-- Data loading and inspection.
-- Handling missing values.
-- Data cleaning, formatting and transformation.
+- Data loading and merging using power query.
+- Used replace function to remove duplicate values.
+- Used transform tool to change dates from text to date format.
+- Used data modelling tool to draw the tables relationships.
 
 ### Explanatory analysis
 ---
