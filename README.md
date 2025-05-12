@@ -36,7 +36,7 @@ Patients Data: The primary dataset used for this analysis was downloaded from a 
 - Data loading and merging using power query.
 - Used replace function to remove duplicate values.
 - Used transform tool to change dates from text to date format.
-- Used data modelling tool to create the tables relationships.
+- Used data modelling tool to create the tables relationships and interactivity.
 
 ### Explanatory analysis
 ---
@@ -78,7 +78,7 @@ Based on the highlighted observations, we recommend the following courses of act
 
 #### Limitations
 ---
-  - Few outliers were recognised and removed reducing the data size.
+  - Inpatient and outpatient datasets were not uniform structurewise (i.e they had diferent number of columns and columns titles).
 
 #### References
 ---
