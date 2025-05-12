@@ -18,7 +18,7 @@
 ### Project Overview
 ---
 
-This data analysis project aims to provide insights into the sales performance of a supermarket in year 2019. We are  looking into various sales aspects seeking to identify the trends, gain a deeper understanding of the sales performance and make recommendations.
+This data analysis project aims to provide insights on the patients waiting times of a certain hospital. We are seeking to identify various patients categories trends, gain a deeper understanding of the underlying causes and make recommendations on how to improve on the current metrics.
 
 ### Data Sources
 ---
