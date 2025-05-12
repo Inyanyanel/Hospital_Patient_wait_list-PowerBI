@@ -23,7 +23,7 @@ This data analysis project aims to provide insights on the patients waiting time
 ### Data Sources
 ---
 
-Sales Data: The primary dataset used for this analysis is the "supermarket_sales.csv" file from kaggle.com datasets [Check Here](https://www.kaggle.com/datasets/alexhuitron/supermarket-sales).
+Patients Data: The primary dataset used for this analysis was downloaded from a youtube tutorial with the link attached. [Check Here](https://pivotalstats.com/wp-content/uploads/2024/09/Data-Mapping-Bg.zip).
 
 ### Tools used
 ---
