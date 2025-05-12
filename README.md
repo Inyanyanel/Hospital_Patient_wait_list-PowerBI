@@ -48,7 +48,7 @@ Patients Data: The primary dataset used for this analysis was downloaded from a 
 
 ### Data Analysis
 ---
-We predominantly used excel functions and formulas as demonstrated below;
+We predominantly used Power BI functions and DAX formulas as demonstrated below;
 #### Formulas
   - Sum-used to get total sales, cost of goods sold and profits.
   - Count-used to get total number of transactions.
