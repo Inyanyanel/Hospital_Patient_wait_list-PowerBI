@@ -36,7 +36,7 @@ Patients Data: The primary dataset used for this analysis was downloaded from a 
 - Data loading and merging using power query.
 - Used replace function to remove duplicate values.
 - Used transform tool to change dates from text to date format.
-- Used data modelling tool to draw the tables relationships.
+- Used data modelling tool to create the tables relationships.
 
 ### Explanatory analysis
 ---
