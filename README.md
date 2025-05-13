@@ -76,7 +76,7 @@ Used a line chart having Total waiting time on the Y-axis and Archive dates on t
   - There was a 16% increase in patient waiting time in the current year from the previous one.
   - The average waiting time was 54 while median was 13.
   - The average and median waiting times gradually decreased as age sets went higher.
-  - The company experienced boom in sales fo the first quarter then sales dwindeled in the latter quarters.
+  - Accidents cases led on both average and median waiting times, various paediatric categories dominated average waiting times while elderly issues dominated median waiting times.
   - Foods and beverage was the top selling category during the year.
   - Branch sales were evenly distributed during the year.
   - Payment modes of cash, credit card and e-wallet were evenly used across the period.
