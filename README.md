@@ -77,10 +77,7 @@ Used a line chart having Total waiting time on the Y-axis and Archive dates on t
   - The average waiting time was 54 while median was 13.
   - The average and median waiting times gradually decreased as age sets went higher.
   - Accidents cases led on both average and median waiting times, paediatric categories dominated average waiting times while elderly issues dominated median waiting times.
-  - Foods and beverage was the top selling category during the year.
-  - Branch sales were evenly distributed during the year.
-  - Payment modes of cash, credit card and e-wallet were evenly used across the period.
-  - Alexandria branch dominated on food and beverage sales (47%), Giza on home & lifestyle (43%), Cairo on health & beauty (39%).
+  - Inpatient wait times remained relatively constant, Day cases experienced a slight dip then rise while outpatient cases suffered an gradual rise over time.
 
 #### Recommendations
 ---
