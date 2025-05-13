@@ -91,10 +91,5 @@ Based on the highlighted observations, we recommend the following courses of act
 ---
   - Inpatient and outpatient datasets were not uniform structurewise (i.e they had diferent number of columns and columns titles).
 
-#### References
----
-  - Excel advanced skills for business [Check here](https://coursera.org/share/4282d5f46dce95bf970f7084e2200d72)
-  - Excel fundamentals for data analysis [Check here](https://coursera.org/share/3644ab5effb80789d6d71f61816530ef)
-
 
 
