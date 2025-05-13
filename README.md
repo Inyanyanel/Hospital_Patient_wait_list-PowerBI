@@ -48,20 +48,28 @@ Patients Data: The primary dataset used for this analysis was downloaded from a 
 
 ### Data Analysis
 ---
-We predominantly used Power BI functions and DAX formulas as demonstrated below;
+We predominantly used Power BI visuals and DAX formulas as demonstrated below;
 - Current and previous month wait list (DAX)
 ```DAX
 Latest month wait list = CALCULATE(SUM('All Data'[Total]),'All Data'[Archive_Date] = MAX('All Data'[Archive_Date])) + 0
 PY month wait list = CALCULATE(SUM('All Data'[Total]),'All Data'[Archive_Date] = EDATE(MAX('All Data'[Archive_Date]),-12)) + 0
 ```
 
-  - Sum-used to get total sales, cost of goods sold and profits.
-  - Count-used to get total number of transactions.
-##### Functions
+- Average and median wait times for various categories.
+```DAX
+Average wait list = AVERAGE('All Data'[Total])
+Median wait list = MEDIAN('All Data'[Total])
+```
+- Waiting time by age.
+Used a Stacked column chart with Average/Median waiting times on the Y-axis and Time bands on the x-axis supported by the Age profiles on the legend sections.
+
+- Top 5 patients specialty wait times.
+Used a multi row card containing Average/Median waiting times and Specialty names.
+
+- Monthly trending analysis for patient categories.
+Used a line chart having Total waiting time on the Y-axis and Archive dates on the X-axis.
+
 ---
-  - Sumifs-used to get total sales and profits per category and salesper branch.
-  - Countifs-used to get total transactions and payment modes per category.
-  - Xlookup-used to get sales and units quantity per invoice during the year.
 
 #### Findings and results
 ---
