@@ -82,14 +82,15 @@ Used a line chart having Total waiting time on the Y-axis and Archive dates on t
 #### Recommendations
 ---
 Based on the highlighted observations, we recommend the following courses of actions.
-  - Invest in marketing promotions to boost sales in the latter three quarters.
-  - Incentives should be offered on food and beverage category to boost sales.
+  - Invest in more efficient handling facilities and personel to handle the increasing patient population.
+  - 
   - Each branch need to adopt its top selling category into a respective flagship outlet to bost sales.
   - Profit margin need to be slightly slashed to 4% to reduce the price in order to try boost sales in the last three quarters.
 
 #### Limitations
 ---
   - Inpatient and outpatient datasets were not uniform structurewise (i.e they had diferent number of columns and columns titles).
+  - A large disparity between Average and median.
 
 
 
