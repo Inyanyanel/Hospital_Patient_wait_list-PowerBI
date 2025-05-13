@@ -49,7 +49,7 @@ Patients Data: The primary dataset used for this analysis was downloaded from a 
 ### Data Analysis
 ---
 We predominantly used Power BI visuals and DAX formulas as demonstrated below;
-- Current and previous month wait list (DAX)
+- Current and previous patients number (DAX)
 ```DAX
 Latest month wait list = CALCULATE(SUM('All Data'[Total]),'All Data'[Archive_Date] = MAX('All Data'[Archive_Date])) + 0
 PY month wait list = CALCULATE(SUM('All Data'[Total]),'All Data'[Archive_Date] = EDATE(MAX('All Data'[Archive_Date]),-12)) + 0
@@ -73,11 +73,11 @@ Used a line chart having Total waiting time on the Y-axis and Archive dates on t
 
 #### Findings and results
 ---
-  - There was a 16% increase in patient waiting time in the current year from the previous one.
+  - There was a 16% increase in patients in the current year from the previous one.
   - The average waiting time was 54 while median was 13.
   - The average and median waiting times gradually decreased as age sets went higher.
   - Accidents cases led on both average and median waiting times, paediatric categories dominated average waiting times while elderly issues dominated median waiting times.
-  - Inpatient wait times remained relatively constant, Day cases experienced a slight dip then rise while outpatient cases suffered an gradual rise over time.
+  - Inpatient wait times remained relatively constant, Day cases experienced a slight dip then rise while outpatient cases suffered an gradual rise (of 26%) over time.
 
 #### Recommendations
 ---
