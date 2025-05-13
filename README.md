@@ -73,9 +73,9 @@ Used a line chart having Total waiting time on the Y-axis and Archive dates on t
 
 #### Findings and results
 ---
-  - January was the top selling month with Kshs. 75,160.51 while April the lowest at Kshs. 2,870.46.
-  - Top sales order was invoice no. 860-79-0874 selling as Kshs. 1,042.65.
-  - The profits were predetermined at a margin of 5%.
+  - There was a 16% increase in patient waiting time in the current year from the previous one.
+  - The average waiting time was 54 while median was 13.
+  - The average and median waiting times gradually decreased as age sets went higher.
   - The company experienced boom in sales fo the first quarter then sales dwindeled in the latter quarters.
   - Foods and beverage was the top selling category during the year.
   - Branch sales were evenly distributed during the year.
