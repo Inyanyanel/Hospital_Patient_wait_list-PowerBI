@@ -49,7 +49,7 @@ Patients Data: The primary dataset used for this analysis was downloaded from a 
 ### Data Analysis
 ---
 We predominantly used Power BI visuals and DAX formulas as demonstrated below;
-- Current and previous patients number (DAX)
+- Current and previous year patients number (DAX)
 ```DAX
 Latest month wait list = CALCULATE(SUM('All Data'[Total]),'All Data'[Archive_Date] = MAX('All Data'[Archive_Date])) + 0
 PY month wait list = CALCULATE(SUM('All Data'[Total]),'All Data'[Archive_Date] = EDATE(MAX('All Data'[Archive_Date]),-12)) + 0
