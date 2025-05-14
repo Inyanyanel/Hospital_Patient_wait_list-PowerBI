@@ -75,7 +75,7 @@ Used a line chart having Total waiting time on the Y-axis and Archive dates on t
 ---
   - There was a 16% increase in patients in the current year from the previous one.
   - The average waiting time was 54 while median was 13.
-  - The average and median waiting times gradually decreased as age sets went higher.
+  - The average and median waiting times gradually increased as age sets went higher.
   - Accidents cases led on both average and median waiting times, paediatric categories dominated average waiting times while elderly issues dominated median waiting times.
   - Inpatient wait times remained relatively constant, Day cases experienced a slight dip then rise while outpatient cases suffered an gradual rise (of 26%) over time.
 
@@ -83,7 +83,7 @@ Used a line chart having Total waiting time on the Y-axis and Archive dates on t
 ---
 Based on the highlighted observations, we recommend the following courses of actions.
   - Invest in more efficient handling facilities and personel to handle the increasing patient population.
-  - 
+  - A big disparity exists between Median (13) and Mean (54) suggesting that we have a very large number of patients having long waiting times as compared to the patient with the shorter     waiting times. Hospital needs to improve the efficiency of faciliities handling patients affected by long waiting times.
   - More efficient facilities and staff addressing higher age sets should be increased so as to reduce the average/median waiting time.
   - Specialised facilities addressing fast attendance of accidents, paediatric and elderly cases that require quick attention need to be expanded.
   - Facilities handling oupatients should be expanded on a timely basis to match an always increasing putpatient number over the years.
@@ -91,7 +91,7 @@ Based on the highlighted observations, we recommend the following courses of act
 #### Limitations
 ---
   - Inpatient and outpatient datasets were not uniform structurewise (i.e they had diferent number of columns and columns titles).
-  - A large disparity between Average and median patients waiting time.
+  - A large disparity between average and median patients waiting time due to having a wide age range of patients having 16-64 years. It needs to be broken down to smaller ranges for         more clarity.
 
 
 
