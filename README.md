@@ -92,6 +92,7 @@ Based on the highlighted observations, we recommend the following courses of act
 ---
   - Inpatient and outpatient datasets were not uniform structurewise (i.e they had diferent number of columns and columns titles).
   - A large disparity between average and median patients waiting time due to having a wide age range of patients having 16-64 and 65+ years. It needs to be broken down to smaller ranges     for more clarity and conciseness.
+  - 175 rows had no input values in some columns therefore had to fill values using overall average.
 
 
 
